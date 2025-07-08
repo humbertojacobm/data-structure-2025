@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug ArrayAndString",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ArrayAndString/bin/Debug/net8.0/ArrayAndString.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ArrayAndString",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        }
+    ]
+}
