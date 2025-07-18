@@ -3,4 +3,5 @@
 using ArrayAndString.DataStructures;
 
 //TwoPointerOppositeDirection.Run();
-TwoSum.Run();
+//TwoSum.Run();
+TestTwoSum.Main();
