@@ -3,4 +3,4 @@
 using ArrayAndString.DataStructures;
 
 //TwoPointerOppositeDirection.Run();
-SortedSquare.Run();
+TwoSum.Run();
